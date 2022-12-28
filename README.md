@@ -1,4 +1,4 @@
-## Olá! Sou a Fernanda Alice
+## Oii sou a Fernanda Alice
 
 - 📚 Graduanda de Engenharia de Software
 - 👩🏻‍💻 Software Developer
