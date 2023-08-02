@@ -1,6 +1,6 @@
 ## Oii sou a Fernanda Alice
 
-- 📚 Graduanda de Engenharia de Software
+- 📚 Graduanda de Engenharia de Software (Atualmente no 5° período)
 - 👩🏻‍💻 Software Developer
 
 <div style="display: inline_block"><br>
