@@ -18,11 +18,11 @@
 <img alt="Fer-typescript" width="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
 <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<br><br><br>
+<br><br>
 <a href="http://linkedin.com/in/fernanda-alicee">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2" />
   </a>
-<br><br><br
+<br><br>
 <img src="https://i.pinimg.com/originals/fb/40/59/fb40597195231af1ca81354ce868aa5c.gif" height="70" />
 <br><br>
 </div>
