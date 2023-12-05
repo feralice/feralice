@@ -22,7 +22,8 @@
 <a href="http://linkedin.com/in/fernanda-alicee">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2" />
   </a>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
 <img src="https://i.pinimg.com/originals/fb/40/59/fb40597195231af1ca81354ce868aa5c.gif" height="70" />
 <br><br>
 </div>
