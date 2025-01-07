@@ -4,8 +4,8 @@
     <br><br>
     <pre align="left" style="text-align: left;">
         ✨ Olá, me chamo Fernanda Alice
-        💻 Estagiária de desenvolvimento web fullstack
-        📖 Estudando engenharia de software
+        💻 Desenvolvedora web fullstack
+        📖 Estudando Engenharia de software
     </pre>
     <br>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
