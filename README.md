@@ -6,7 +6,7 @@
         <p style="margin: 0;">
             ✨ Olá, me chamo Fernanda Alice<br>
             💻 Desenvolvedora web fullstack<br>
-            📖 Estudando Engenharia de software
+            📖 Engenheira de software
         </p>
     </div>
     <br>
